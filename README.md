@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [This is the solution as seen from Frontend Mentor]().coming soon.
+- Solution URL: [This is the solution as seen from Frontend Mentor](https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-zJk37lKmsf).
 - Live Site URL: [Live solution](https://boudgnosis.github.io/Ping-comming-soon-page/).
 
 ## My process
@@ -54,6 +54,7 @@ Users should be able to:
 - JavaScript vanilla
 - Accessibility
 - Metadata
+- [Normalize](https://necolas.github.io/normalize.css/)
 
 ## Author
 
